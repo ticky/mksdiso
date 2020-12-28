@@ -1,16 +1,16 @@
 # mksdiso
-This toolkit is a collection of free tools & scripts (for Linux), that can be used to create SDISO-Files which can run using Dreamshell on a Sega Dreamcast. Or burn a CDI-Image to disc.
+This toolkit is a collection of free tools & scripts, that can be used to create SDISO-Files which can run using Dreamshell on a Sega Dreamcast. Or burn a CDI-Image to disc.
 
-mksdiso itself can be called the "SDISO Multimaker" for Linux. (Just without GUI & Libre)
-To burn CDI-Images on Linux, there is also a included script called "burncdi".
+mksdiso itself can be called the "SDISO Multimaker" for Unix. (Just without GUI & Libre)
+To burn CDI-Images on Unix, there is also a included script called "burncdi".
 
 ## General
 This Git-Repository includes:
  - binhack32 (IP.BIN/BOOT.BIN SB Hacker - 32bit BINHACK Clone by FamilyGuy 2010)
  - isofix (ISO LBA fixer 1.3 - (C) 2001 by DeXT)
  - scramble ("scrambler" for 1ST_READ.BIN)
- - cdirip (Ver. 0.6.2 - (C) 2001 by DeXT - Hacked for Linux by me 2012)
- - burncdi (Script for burning CDI-Files using Linux - By milksheik & me)
+ - cdirip (Ver. 0.6.2 - (C) 2001 by DeXT - Hacked for Linux by Nold360 2012)
+ - burncdi (Script for burning CDI-Files using Linux - By milksheik & Nold360)
  - mksdiso (Script to convert a Dir/CDI/ISO to Dreamshell SD-ISO format)
 
 
